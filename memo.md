@@ -20,7 +20,7 @@
 | データ削除  | /channels/:channel-id/data/ | DELETE |
 | チャンネル作成 | /channels | POST |
 | チャンネル取得 | /channels | GET |
-| チャンネル削除 | /channels/:channel-id | POST |
+| チャンネル削除 | /channels/:channel-id | DELETE |
 
 
 ## memo
